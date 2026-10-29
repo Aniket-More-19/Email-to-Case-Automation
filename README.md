@@ -34,8 +34,8 @@ The automation improves case intake, ensures customers receive confirmation with
 
 ## Implementation
 
-<img width="1470" height="956" alt="Screenshot 2026-10-29 at 5 03 44 PM" src="https://github.com/user-attachments/assets/f4c019e6-4a1c-47f6-9d11-d3bae5024f2b" />
-
 <img width="1470" height="888" alt="Screenshot 2026-10-29 at 5 04 00 PM" src="https://github.com/user-attachments/assets/c50d69b5-05e4-4fb3-a444-eb3dec1214d2" />
+
+<img width="1470" height="889" alt="Screenshot 2026-10-29 at 5 04 45 PM" src="https://github.com/user-attachments/assets/d9d9dd36-60df-4636-b44f-0d3dccd809d5" />
 
 <img width="1469" height="810" alt="Screenshot 2026-10-29 at 5 13 22 PM" src="https://github.com/user-attachments/assets/0fe5e8a3-e3cf-4e26-9976-58b1fd44b6ce" />
